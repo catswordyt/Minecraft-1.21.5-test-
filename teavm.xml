@@ -1,0 +1,5 @@
+<teavm>
+  <targetType>wasm</targetType>
+  <mainClass>com.example.mc.Main</mainClass>
+  <optimizationLevel>3</optimizationLevel>
+</teavm>
